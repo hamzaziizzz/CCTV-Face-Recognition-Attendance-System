@@ -1,0 +1,80 @@
+{
+    "girlshostel": {
+        "api-endpoint": "https://glbitm.server.com:8072/uploadDataApi/Api/LibraryAtt/HostelAttMarked",
+        "cctv-cameras": {
+            "entry": {
+                "cctv-camera-1": {
+                    "username": "global",
+                    "password": "Test_123",
+                    "ip_address": "192.168.225.200",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            },
+            "exit": {
+                "cctv-camera-1": {
+                    "username": "global",
+                    "password": "Test_123",
+                    "ip_address": "192.168.225.199",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            },
+            "reception-lobby": {
+                "cctv-camera-1": {
+                    "username": "global",
+                    "password": "nvidiagril321",
+                    "ip_address": "192.168.225.109",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                },
+                "cctv-camera-2": {
+                    "username": "global",
+                    "password": "nvidiagril321",
+                    "ip_address": "192.168.225.117",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            },
+            "garden-view": {
+                "cctv-camera-1": {
+                    "username": "global",
+                    "password": "nvidiagril321",
+                    "ip_address": "192.168.225.128",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            }
+        }
+    },
+    "bbalibrary": {
+        "api-endpoint": "https://abesit.servergi.com:8077/UPloadDataAPIABESIT/Api/LibraryAtt/LibraryAttMarked",
+        "cctv-cameras": {
+            "entry": {
+                "cctv-camera-1": {
+                    "username": "grilsquad",
+                    "password": "Test_432",
+                    "ip_address": "192.168.225.61",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            },
+            "exit": {
+                "cctv-camera-1": {
+                    "username": "grilsquad",
+                    "password": "Test_432",
+                    "ip_address": "192.168.225.62",
+                    "port": 554,
+                    "endpoint": "",
+                    "masking-coordinates": null
+                }
+            }
+        }
+    }
+}
